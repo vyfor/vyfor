@@ -35,7 +35,11 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&amp;logo=Gradle&amp;logoColor=white" alt="Gradle">
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white" alt="Maven">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&amp;logoColor=white&amp;style=for-the-badge" alt="Vim">
+  <img src="./helix-logo.svg" alt="Helix">
 </p>
 
 <h3 align="left">Connect with me</h3>
