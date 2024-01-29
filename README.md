@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white" alt="Maven">
 </p>
 <p>
-  <img src="./helix-logo.svg" alt="Helix">
-  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&amp;logoColor=white&amp;style=for-the-badge" alt="Vim">
+  <a href="https://helix-editor.com/" target="_blank"><img src="./helix-logo.svg" alt="Helix"></a>
+  <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?logo=vim&amp;logoColor=white&amp;style=for-the-badge" alt="Vim"></a>
 </p>
 
 <h3 align="left">Connect with me</h3>
