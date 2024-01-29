@@ -44,10 +44,13 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .
+
       - name: Sed
         run: |
-          sed -i '/<footer>/,/<\/footer>/d' /github-metrics.svg
+          sed -i '/<footer>/,/<\/footer>/d' ./github-metrics.svg
 
       - name: Commit changes
         run: |
