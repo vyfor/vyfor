@@ -47,12 +47,12 @@ jobs:
 
       - name: Sed
         run: |
-          sed -i '/<footer>/,/<\/footer>/d' ./github-metrics.svg
+          sed -i '/<footer>/,/<\/footer>/d' /github-metrics.svg
 
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ./github-metrics.svg
+          git add github-metrics.svg
           git commit -m "." || exit 0
           git push
