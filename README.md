@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Blast</h1>
 <h3 align="center">Kotlin language enthusiast since 2022</h3>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="2000"></imgp>
-
 <h3 align="left">Tech stack</h3>
 <p>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
@@ -42,3 +40,4 @@
 
 <h3 align="left">Connect with me</h3>
 <a href="https://discord.gg/mw27xdA3wh"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="2000"></img>
