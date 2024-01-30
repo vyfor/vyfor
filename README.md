@@ -19,7 +19,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
-  <img src="./qwik-logo.svg" alt="Qwik">
+  <img src="./assets/qwik-logo.svg" alt="Qwik">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white" alt="Maven">
 </p>
 <p>
-  <a href="https://helix-editor.com/"><img src="./helix-logo.svg" alt="Helix"></a>
+  <a href="https://helix-editor.com/"><img src="./assets/helix-logo.svg" alt="Helix"></a>
   <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-019733?logo=vim&amp;logoColor=white&amp;style=for-the-badge" alt="Vim"></a>
 </p>
 
