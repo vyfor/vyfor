@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript&amp;langs_count=3&amp;theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript&amp;langs_count=3&amp;theme=transparent">
 <h2 align="left">Tech stack</h3>
 <p>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
