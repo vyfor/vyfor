@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript&amp;langs_count=3&amp;theme=transparent">
+[![vyfor's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript&amp;langs_count=3&amp;theme=github_dark)](https://github.com/vyfor#gh-dark-mode-only)
+[![vyfor's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript&amp;langs_count=3&amp;theme=default)](https://github.com/vyfor#gh-light-mode-only)
 <h2 align="left">Tech stack</h3>
 <p>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
