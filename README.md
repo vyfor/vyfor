@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go">
 </p>
 <p>
-  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-019733?logo=vim&amp;logoColor=white&amp;style=for-the-badge" alt="Vim"></a>
   <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-116aab.svg?&amp;style=for-the-badge&amp;logo=neovim&amp;logoColor=white" alt="Neovim"></a>
+  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-019733?logo=vim&amp;logoColor=white&amp;style=for-the-badge" alt="Vim"></a>
   <a href="https://helix-editor.com/"><img src="./assets/helix-logo.svg" alt="Helix"></a>
 </p>
 <details>
