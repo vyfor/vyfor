@@ -1,8 +1,11 @@
-[![vyfor's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript&amp;langs_count=3&amp;theme=github_dark)](https://github.com/vyfor#gh-dark-mode-only)
-[![vyfor's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript&amp;langs_count=3&amp;theme=default)](https://github.com/vyfor#gh-light-mode-only)
-<h2 align="left">Tech stack</h3>
+[![vyfor's stats](https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=github_dark)](https://github.com/vyfor#gh-dark-mode-only)
+[![vyfor's stats](https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=default)](https://github.com/vyfor#gh-light-mode-only)
+
+[![vyfor's stats](https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript,java&amp;exclude_repo=dive-bot,axeon-bot&amp;langs_count=3&amp;theme=github_dark)](https://github.com/vyfor#gh-dark-mode-only)
+[![vyfor's stats](https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript,java&amp;exclude_repo=dive-bot,axeon-bot&amp;langs_count=3&amp;theme=default)](https://github.com/vyfor#gh-light-mode-only)
+<h2 align="left">I use</h3>
 <p>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/kotlin/native-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin/Native">
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&amp;logo=lua&amp;logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go">
@@ -15,6 +18,7 @@
 <details>
   <summary>More</summary>
   <p>
+    <img src="https://img.shields.io/badge/kotlin/jvm-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin/JVM">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
