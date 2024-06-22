@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/vyfor/cord.nvim#gh-dark-mode-only" title="View Plugin">
-    <img src="https://lanyard.cnrad.dev/api/446729269872427018?hideStatus=true&bg=00000000&idleMessage=‎%20&borderRadius=0&hideActivity=whenNotUsed&ignoreAppId=978995592736944188&theme=dark" alt="Discord"/>
+    <img src="https://lanyard.cnrad.dev/api/446729269872427018?hideStatus=true&bg=00000000&idleMessage=‎%20&borderRadius=0&hideActivity=whenNotUsed&ignoreAppId=978995592736944188&theme=dark" alt="Discord" />
   </a>
   <a href="https://github.com/vyfor/cord.nvim#gh-light-mode-only" title="View Plugin">
-    <img src="https://lanyard.cnrad.dev/api/446729269872427018?hideStatus=true&bg=00000000&idleMessage=‎%20&borderRadius=0&hideActivity=whenNotUsed&ignoreAppId=978995592736944188&theme=light" alt="Discord"/>
+    <img src="https://lanyard.cnrad.dev/api/446729269872427018?hideStatus=true&bg=00000000&idleMessage=‎%20&borderRadius=0&hideActivity=whenNotUsed&ignoreAppId=978995592736944188&theme=light" alt="Discord" />
   </a>
   
   <br>
