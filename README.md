@@ -9,10 +9,10 @@
   <br>
   
   <a href="https://github.com/vyfor#gh-dark-mode-only">
-    <img src="https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=github_dark&hide_border=true&line_height=27" alt="vyfor's stats" />
+    <img src="https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=github_dark&hide_border=true&line_height=27&include_all_commits=true" alt="vyfor's stats" />
   </a>
   <a href="https://github.com/vyfor#gh-light-mode-only">
-    <img src="https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=default&hide_border=true&line_height=27" alt="vyfor's stats" />
+    <img src="https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=default&hide_border=true&line_height=27&include_all_commits=true" alt="vyfor's stats" />
   </a>
 
   <a href="https://github.com/vyfor#gh-dark-mode-only">
