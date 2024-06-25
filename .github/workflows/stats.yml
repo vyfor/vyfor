@@ -24,23 +24,23 @@ jobs:
       run: |
         git config --global user.name "vyfor"
         git config --global user.email "92883017+vyfor@users.noreply.github.com"
-        git add ./assets/stats_dark.svg --force
+        git add stats_dark.svg --force
         git commit -m "Update stats card (dark)"
         
     - name: Commit stats_light.svg
       run: |
-        git add ./assets/stats_light.svg --force
+        git add stats_light.svg --force
         git commit -m "Update stats card (light)"
         
     - name: Commit languages_dark.svg
       run: |
-        git add ./assets/languages_dark.svg --force
+        git add languages_dark.svg --force
         git commit -m "Update languages card (dark)"
         
     - name: Commit languages_light.svg
       run: |
-        wget "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=default&hide_border=true" -O languages_light.svg && mv ./languages_light.svg ./assets/languages_light.svg -f
-        git add assets --force
+        wget "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=default&hide_border=true" -O languages_light.svg
+        git add languages_light.svg --force
         git commit -m "Update languages card (light)"
 
     - name: Push changes
