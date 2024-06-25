@@ -1,0 +1,40 @@
+name: Update Stats
+
+permissions: write
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update_stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Fetch stats
+      run: |
+        curl -s https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=github_dark&hide_border=true&line_height=27&include_all_commits=true -o stats_dark.svg
+        curl -s https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=defaultk&hide_border=true&line_height=27&include_all_commits=true -o stats_light.svg
+        curl -s https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=github_dark&hide_border=true -o languages_dark.svg
+        curl -s https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=default&hide_border=true -o languages_light.svg
+        mv -f ./stats_dark.svg ./assets/stats_dark.svg
+        mv -f ./stats_light.svg ./assets/stats_light.svg
+        mv -f ./languages_dark.svg ./assets/languages_dark.svg
+        mv -f ./languages_light.svg ./assets/languages_light.svg
+
+    - name: Commit and push changes
+      run: |
+          git config --global user.name "vyfor"
+          git config --global user.email "92883017+vyfor@users.noreply.github.com"
+          git add ./assets/stats_dark.svg
+          git commit -m "Update stats card"
+          git add ./assets/stats_light.svg
+          git commit -m "Update stats card"
+          git add ./assets/languages_dark.svg
+          git commit -m "Update languages card"
+          git add ./assets/languages_light.svg
+          git commit -m "Update languages card"
+          git push origin main
