@@ -26,8 +26,6 @@ jobs:
         echo 'mv -f stats_light.svg assets/stats_light.svg'| bash
         echo 'mv -f languages_dark.svg assets/languages_dark.svg'| bash
         echo 'mv -f languages_light.svg assets/languages_light.svg'| bash
-        bash ./fetch_stats.sh
-        rm ./fetch_stats.sh
 
     - name: Commit stats_dark.svg
       run: |
