@@ -1,4 +1,4 @@
-wget "https://readme-stats-nu.vercel.app/api?username=vyfor&show_icons=true&theme=github_dark&hide_border=true&line_height=27&include_all_commits=true" -O stats_dark.svg && mv ./stats_dark.svg ./assets/stats_dark.svg -f
-wget "https://readme-stats-nu.vercel.app/api?username=vyfor&show_icons=true&theme=default&hide_border=true&line_height=27&include_all_commits=true" -O stats_light.svg && mv ./stats_light.svg ./assets/stats_light.svg -f
-wget "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=github_dark&hide_border=true" -O languages_dark.svg && mv ./languages_dark.svg ./assets/languages_dark.svg -f
-wget "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=default&hide_border=true" -O languages_light.svg && mv ./languages_light.svg ./assets/languages_light.svg -f
+wget "https://readme-stats-nu.vercel.app/api?username=vyfor&show_icons=true&theme=github_dark&hide_border=true&line_height=27&include_all_commits=true" -O stats_dark.svg
+wget "https://readme-stats-nu.vercel.app/api?username=vyfor&show_icons=true&theme=default&hide_border=true&line_height=27&include_all_commits=true" -O stats_light.svg
+wget "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=github_dark&hide_border=true" -O languages_dark.svg
+wget "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=default&hide_border=true" -O languages_light.svg
