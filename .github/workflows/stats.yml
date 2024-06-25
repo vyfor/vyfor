@@ -3,6 +3,7 @@ name: Update Stats
 permissions: write
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
 
