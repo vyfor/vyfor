@@ -9,17 +9,17 @@
   <br>
   
   <a href="https://github.com/vyfor#gh-dark-mode-only">
-    <img src="https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=github_dark&hide_border=true&line_height=27&include_all_commits=true" alt="vyfor's stats" />
+    <img src="./assets/stats_dark.svg" alt="vyfor's stats" />
   </a>
   <a href="https://github.com/vyfor#gh-light-mode-only">
-    <img src="https://readme-stats-nu.vercel.app/api?username=vyfor&amp;show_icons=true&amp;theme=default&hide_border=true&line_height=27&include_all_commits=true" alt="vyfor's stats" />
+    <img src="./assets/stats_light.svg" alt="vyfor's stats" />
   </a>
 
   <a href="https://github.com/vyfor#gh-dark-mode-only">
-    <img align="bottom" src="https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript,java&amp;exclude_repo=dive-bot,axeon-bot&amp;langs_count=3&amp;theme=github_dark&hide_border=true" alt="vyfor's top langs" />
+    <img align="bottom" src="./assets/languages_dark" alt="vyfor's top langs" />
   </a>
   <a href="https://github.com/vyfor#gh-light-mode-only">
-    <img src="https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&amp;hide=javascript,java&amp;exclude_repo=dive-bot,axeon-bot&amp;langs_count=3&amp;theme=default&hide_border=true" alt="vyfor's top langs" />
+    <img align="bottom" src="./assets/languages_light" alt="vyfor's top langs" />
   </a>
   
   <h2>I use</h3>
