@@ -1,2 +1,0 @@
-wget "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=github_dark&hide_border=true" -O languages_dark.svg && mv ./languages_dark.svg ./assets/languages_dark.svg -f
-wget "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=default&hide_border=true" -O languages_light.svg && mv ./languages_light.svg ./assets/languages_light.svg -f
