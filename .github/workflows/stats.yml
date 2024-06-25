@@ -26,36 +26,22 @@ jobs:
         git config --global user.email "92883017+vyfor@users.noreply.github.com"
         git add ./assets/stats_dark.svg
         git commit -m "Update stats card (dark)"
-        git push
         
     - name: Commit stats_light.svg
       run: |
         git add ./assets/stats_light.svg
         git commit -m "Update stats card (light)"
-        git push
-        
-  update_languages:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-
-    - name: Fetch stats
-      run: |
-        bash ./fetch_languages.sh
         
     - name: Commit languages_dark.svg
       run: |
-        git config --global user.name "vyfor"
-        git config --global user.email "92883017+vyfor@users.noreply.github.com"
-        git status
         git add ./assets/languages_dark.svg
         git commit -m "Update languages card (dark)"
-        git push
         
     - name: Commit languages_light.svg
       run: |
         git add ./assets/languages_light.svg
         git commit -m "Update languages card (light)"
+
+    - name: Push changes
+      run: |
         git push
