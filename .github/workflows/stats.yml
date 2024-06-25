@@ -49,6 +49,7 @@ jobs:
       run: |
         git config --global user.name "vyfor"
         git config --global user.email "92883017+vyfor@users.noreply.github.com"
+        git status
         git add ./assets/languages_dark.svg
         git commit -m "Update languages card (dark)"
         git push
