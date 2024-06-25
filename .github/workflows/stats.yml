@@ -18,39 +18,29 @@ jobs:
 
     - name: Fetch stats
       run: |
-        echo 'curl -s "https://readme-stats-nu.vercel.app/api?username=vyfor&show_icons=true&theme=github_dark&hide_border=true&line_height=27&include_all_commits=true" -o stats_dark.svg'| bash
-        echo 'curl -s "https://readme-stats-nu.vercel.app/api?username=vyfor&show_icons=true&theme=default&hide_border=true&line_height=27&include_all_commits=true" -o stats_light.svg'| bash
-        echo 'curl -s "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=github_dark&hide_border=true" -o languages_dark.svg'| bash
-        echo 'curl -s "https://readme-stats-nu.vercel.app/api/top-langs/?username=vyfor&hide=javascript,java&exclude_repo=dive-bot,axeon-bot&langs_count=3&theme=default&hide_border=true" -o languages_light.svg'| bash
+        bash ./fetch_stats.sh
 
     - name: Commit stats_dark.svg
       run: |
         ls
-        echo 'mv -f stats_dark.svg assets/stats_dark.svg'| bash
         git config --global user.name "vyfor"
         git config --global user.email "92883017+vyfor@users.noreply.github.com"
-        git add assets
+        git add ./assets/stats_dark.svg
         git commit -m "Update stats card (dark)"
         git push
         
     - name: Commit stats_light.svg
       run: |
-        ls
-        echo 'mv -f stats_light.svg assets/stats_light.svg'| bash
-        git add .
+        git add ./assets/stats_light.svg
         git commit -m "Update stats card (light)"
         git push
     - name: Commit languages_light.svg
       run: |
-        ls
-        echo 'mv -f languages_light.svg assets/languages_light.svg'| bash
-        git add assets/languages_light.svg
+        git add ./assets/languages_light.svg
         git commit -m "Update languages card (light)"
         git push
     - name: Commit languages_dark.svg
       run: |
-        ls
-        echo 'mv -f languages_dark.svg assets/languages_dark.svg'| bash
-        git add assets/languages_dark.svg
+        git add ./assets/languages_dark.svg
         git commit -m "Update languages card (dark)"
         git push
