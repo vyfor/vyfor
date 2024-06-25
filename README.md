@@ -16,10 +16,10 @@
   </a>
 
   <a href="https://github.com/vyfor#gh-dark-mode-only">
-    <img align="bottom" src="./assets/languages_dark" alt="vyfor's top langs" />
+    <img align="bottom" src="./assets/languages_dark.svg" alt="vyfor's top langs" />
   </a>
   <a href="https://github.com/vyfor#gh-light-mode-only">
-    <img align="bottom" src="./assets/languages_light" alt="vyfor's top langs" />
+    <img align="bottom" src="./assets/languages_light.svg" alt="vyfor's top langs" />
   </a>
   
   <h2>I use</h3>
