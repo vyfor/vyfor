@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">vyfor's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 151, Total Commits  : 2512, Total PRs: 96, Total Issues: 77, Contributed to (last year): 10</desc>
+        <title id="titleId">vyfor's GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 151, Total Commits  : 2515, Total PRs: 96, Total Issues: 77, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.52271472265189;
+        stroke-dashoffset: 61.97387496669858;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A-
+          A
         </text>
       
         </g>
