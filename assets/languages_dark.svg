@@ -121,15 +121,15 @@
     <svg data-testid="lang-items" x="25">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">Kotlin</text>
-      <text x="215" y="34" class="lang-name">53.19%</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">C</text>
+      <text x="215" y="34" class="lang-name">61.6%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="53.19%">
+      <svg data-testid="lang-progress" width="61.6%">
         <rect
             height="8"
-            fill="#A97BFF"
+            fill="#555555"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 750ms;"
@@ -140,15 +140,15 @@
     </g>
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">Rust</text>
-      <text x="215" y="34" class="lang-name">41.1%</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">Makefile</text>
+      <text x="215" y="34" class="lang-name">27.79%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="41.1%">
+      <svg data-testid="lang-progress" width="27.79%">
         <rect
             height="8"
-            fill="#dea584"
+            fill="#427819"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 900ms;"
@@ -159,15 +159,15 @@
     </g>
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">Lua</text>
-      <text x="215" y="34" class="lang-name">5.7%</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">Roff</text>
+      <text x="215" y="34" class="lang-name">10.61%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="5.7%">
+      <svg data-testid="lang-progress" width="10.61%">
         <rect
             height="8"
-            fill="#000080"
+            fill="#ecdebe"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1050ms;"
