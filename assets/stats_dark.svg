@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">vyfor's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 247, Total Commits in 2024 : 6469, Total PRs: 110, Total Issues: 108, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 247, Total Commits in 2024 : 6471, Total PRs: 110, Total Issues: 108, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.84999193362393;
+        stroke-dashoffset: 39.84999192986256;
       }
     }
   
