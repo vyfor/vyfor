@@ -1,13 +1,4 @@
 <div align="center">
-  <a href="https://github.com/vyfor/cord.nvim#gh-dark-mode-only" title="View Plugin">
-    <img src="https://lanyard.cnrad.dev/api/446729269872427018?hideStatus=true&bg=00000000&idleMessage=idle&borderRadius=0&ignoreAppId=978995592736944188&theme=dark" alt="Discord" />
-  </a>
-  <a href="https://github.com/vyfor/cord.nvim#gh-light-mode-only" title="View Plugin">
-    <img src="https://lanyard.cnrad.dev/api/446729269872427018?hideStatus=true&bg=00000000&idleMessage=idle&borderRadius=0&ignoreAppId=978995592736944188&theme=light" alt="Discord" />
-  </a>
-  
-  <br>
-  
   <a href="https://github.com/vyfor#gh-dark-mode-only">
     <img src="./assets/stats_dark.svg" alt="vyfor's stats" />
   </a>
