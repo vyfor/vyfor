@@ -25,5 +25,5 @@
   </p>
   
   <h2>Connect with me on Discord: <a href="https://discord.com/users/446729269872427018" title="vyfor">@vyfor</a></h2>
-  <a href="https://discord.gg/mw27xdA3wh"><img src="https://discord.com/api/guilds/1075450745232564245/widget.png?style=banner3" alt="axeon"/></a>
+  <a href="https://discord.gg/q9rC4bjCHv"><img src="https://discord.com/api/guilds/1322899307925602366/widget.png?style=banner2" alt="cord.nvim"/></a>
 </div>
